@@ -1,0 +1,2 @@
+Welcome all.
+Hope you find git interesting.
